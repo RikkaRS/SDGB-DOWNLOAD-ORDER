@@ -7,12 +7,12 @@ A MaimaiDX CHN Options Download Tools
 请安装以下第三方库后使用
 
 requests
+
 pycryptodome
+
 tqdm
 
-完全自动化的SDGB Options获取工具！
-
-从服务器获取配信文本，截取文本当中的下载链接和文件名提供可选下载选项，通过多线程的方式进行下载，下载完成后使用Unsega对Options处理，并通过支持ExFat格式的7zip对vhd进行解压，将文件重命名为游戏可直接读取的格式。
+完全自动化的SDGB Options获取工具！从服务器获取配信文本，截取文本当中的下载链接和文件名提供可选下载选项，通过多线程的方式进行下载，下载完成后使用Unsega对Options处理，通过支持ExFat格式的7zip对vhd进行解压，并自动将文件重命名为游戏可直接读取的格式。
 
 TIPS:
 
