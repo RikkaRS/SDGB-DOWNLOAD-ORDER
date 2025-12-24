@@ -7,9 +7,7 @@ A MaimaiDX CHN Options Download Tools
 请安装以下第三方库后使用
 
 requests
-
 pycryptodome
-
 tqdm
 
 完全自动化的SDGB Options获取工具！
